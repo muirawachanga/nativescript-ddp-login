@@ -1,5 +1,5 @@
 
-var DDP = require('nativescript-ddp-client');
+var DDP = require('nativescript-meteor');
 var jsSHA = require("jssha");
 var slice = [].slice;
 export class DDPLogin {
